@@ -1,4 +1,4 @@
-#include "robot_algos.cpp"
+#include "robot_algos.hpp"
 
 int main() {
 	std::string choice;
